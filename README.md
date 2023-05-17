@@ -12,7 +12,7 @@ Consumer churn is a major concern in various industries, including the telecommu
 Consumer Churn Prediction, Machine Learning, Data Imbalanced, Telecommunication, Ensemble Methods, Resampling
 # Methodology
 < img src = "https://github.com/johnnyqjy/Consumer-Churn-Prediction-Using-Pyspark/Methodology_Flowchart.png" >
-![alt text](https://github.com/johnnyqjy/Consumer-Churn-Prediction-Using-Pyspark/Methodology_Flowchart.png)
+![alt text](https://github.com/johnnyqjy/Consumer-Churn-Prediction-Using-Pyspark/Methodology_Flowchart.png?raw=true)
 # To run this project 
 1. First item
 2. Second item
